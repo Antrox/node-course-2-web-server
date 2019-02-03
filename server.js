@@ -34,8 +34,8 @@ app.get('/bad',(req, res)=>{
 });
 
 //make ports to listen
-app.listen(3000,()=>{
-    console.log("server is up on port:3000");
-});
+// app.listen(3000,()=>{
+//     console.log("server is up on port:3000");
+// });
 
 //end
